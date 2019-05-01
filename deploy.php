@@ -21,7 +21,6 @@ host(
     ->set('deploy_path', '/var/www/html/picgarden-api')
 ;
 
-
 task('pwd', function () {
     $result = run('pwd');
     writeln("Current dir: $result");

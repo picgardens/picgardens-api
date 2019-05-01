@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ecf2536-c0e5-41fd-8f07-90e7e3ebf1ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/deploy_hursittopalenuyguncom.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy_picgardensgmailcom.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.php" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploy_picgardensgmailcom.sh">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -100,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -169,7 +168,6 @@
         <option value="$PROJECT_DIR$/src/Kernel.php" />
         <option value="$PROJECT_DIR$/config/routes.yaml" />
         <option value="$PROJECT_DIR$/haproxy.cfg" />
-        <option value="$PROJECT_DIR$/deploy.php" />
         <option value="$PROJECT_DIR$/src/Service/Story.php" />
         <option value="$PROJECT_DIR$/config/packages/ekino_new_relic.yaml" />
         <option value="$PROJECT_DIR$/src/Controller/SearchController.php" />
@@ -199,6 +197,7 @@
         <option value="$PROJECT_DIR$/config/packages/old_sound_rabbit_mq.yaml" />
         <option value="$PROJECT_DIR$/deploy_hursittopalenuyguncom.sh" />
         <option value="$PROJECT_DIR$/deploy_hursittopalbilomuedutr.sh" />
+        <option value="$PROJECT_DIR$/deploy.php" />
       </list>
     </option>
   </component>
@@ -454,7 +453,7 @@
       <workItem from="1555953324322" duration="815000" />
       <workItem from="1556038326990" duration="198000" />
       <workItem from="1556086292182" duration="140000" />
-      <workItem from="1556712672406" duration="894000" />
+      <workItem from="1556712672406" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <created>1550333802010</created>
@@ -750,11 +749,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556712721217</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="sd">
+      <created>1556716094978</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1556716094978</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53208000" />
+    <option name="totallyTimeSpent" value="53352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1071,13 +1077,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/HashtagController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -1125,6 +1124,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy_picgardensgmailcom.sh">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
