@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8ecf2536-c0e5-41fd-8f07-90e7e3ebf1ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.php" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,18 +80,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EventSubscriber/RequestCacheEventSubscriber.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-              <folding>
-                <element signature="e#39#102#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env.local">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -101,10 +91,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="44">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploy.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -196,6 +191,7 @@
         <option value="$PROJECT_DIR$/config/packages/old_sound_rabbit_mq.yaml" />
         <option value="$PROJECT_DIR$/deploy_hursittopalenuyguncom.sh" />
         <option value="$PROJECT_DIR$/deploy_hursittopalbilomuedutr.sh" />
+        <option value="$PROJECT_DIR$/deploy.txt" />
         <option value="$PROJECT_DIR$/deploy.php" />
       </list>
     </option>
@@ -452,7 +448,7 @@
       <workItem from="1555953324322" duration="815000" />
       <workItem from="1556038326990" duration="198000" />
       <workItem from="1556086292182" duration="140000" />
-      <workItem from="1556712672406" duration="1483000" />
+      <workItem from="1556712672406" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <created>1550333802010</created>
@@ -776,11 +772,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556717002409</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="sd">
+      <created>1556717500710</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1556717500710</updated>
+    </task>
+    <task id="LOCAL-00048" summary="sd">
+      <created>1556717893419</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1556717893419</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53797000" />
+    <option name="totallyTimeSpent" value="54172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1145,10 +1155,13 @@
     <entry file="file://$PROJECT_DIR$/deploy_picgardensgmailcom.sh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/deploy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="44">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
         </state>
       </provider>
     </entry>

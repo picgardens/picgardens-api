@@ -6,7 +6,7 @@ require 'recipe/symfony.php';
 
 set('application', 'picgarden-api');
 
-set('repository', 'git@bitbucket.org:hursit_topal/picgarden-api.git');
+set('repository', 'git@github.com:hursit/picgardens-api.git');
 
 set('git_tty', false);
 
