@@ -2,8 +2,6 @@
 
 namespace Deployer;
 
-use Symfony\Component\Console\Input\InputArgument;
-
 require 'recipe/symfony.php';
 
 set('application', 'picgarden-api');
@@ -11,8 +9,6 @@ set('application', 'picgarden-api');
 set('repository', 'git@bitbucket.org:hursit_topal/picgarden-api.git');
 
 set('git_tty', false);
-
-#set('shared_dirs', array_merge(get('shared_dirs'), ['web/sitemaps']));
 
 set('bin_dir', '/vendor/symfony');
 
