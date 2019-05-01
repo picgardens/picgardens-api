@@ -1,9 +1,9 @@
 
-6php:S905@""Remove or refactor this statement.(’Ø‰€
 ;php:S905(""Remove or refactor this statement.(ô‰§îşÿÿÿÿ
-Bphp:S108A")Either remove or fill this block of code.(¶º·şÿÿÿÿ
-;php:S9054""Remove or refactor this statement.(ô‰§îşÿÿÿÿ
-Bphp:S1087")Either remove or fill this block of code.(¶º·şÿÿÿÿ
 Bphp:S108+")Either remove or fill this block of code.(¶º·şÿÿÿÿ
-1	php:S2964"Remove this call to "sleep".(÷é´‡
+Bphp:S1087")Either remove or fill this block of code.(¶º·şÿÿÿÿ
 n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ĞÖşÿÿÿÿ
+6php:S905@""Remove or refactor this statement.(’Ø‰€
+1	php:S2964"Remove this call to "sleep".(÷é´‡
+;php:S9054""Remove or refactor this statement.(ô‰§îşÿÿÿÿ
+Bphp:S108A")Either remove or fill this block of code.(¶º·şÿÿÿÿ
