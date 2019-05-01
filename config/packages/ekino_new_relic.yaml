@@ -1,0 +1,6 @@
+ekino_new_relic:
+    enabled: true
+    application_name: 'Picgardens Api'
+    api_key: "7f2a1158c886cfb2869b00f33652360390264001d2b4ce7"
+    exceptions: true
+    deprecations: false
